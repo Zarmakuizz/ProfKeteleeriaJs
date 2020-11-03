@@ -1,3 +1,9 @@
+# Custom defined
+.env
+
+###########################
+# Automatically generated #
+###########################
 # Logs
 logs
 *.log

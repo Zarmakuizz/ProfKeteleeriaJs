@@ -1,0 +1,12 @@
+{
+  "name": "prof-keteleeria-js",
+  "version": "0.0.1",
+  "description": "Discord Bot to browse and showcase Pokémon TCG cards",
+  "main": "index.js",
+  "author": "Guy «Zarmakuizz» Champollion",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
